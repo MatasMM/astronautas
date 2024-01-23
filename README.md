@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://front-end-by-rimantas.github.io/48-grupe-astronautas/
 
-Design: [Ufo](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mode=media)
+Design: [astrodautas](https://dribbble.com/shots/5964475-404-Lost-in-Space)
 
 ## 🎯 Project features/goals
 
